@@ -6,6 +6,7 @@ var BodyParser = require('body-parser');
 var Swaggerize = require('swaggerize-express');
 var Path = require('path');
 
+require("./db/mongoCon");
 var App = Express();
 
 var Server = Http.createServer(App);
