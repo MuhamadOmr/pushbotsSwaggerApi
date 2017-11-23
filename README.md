@@ -1,4 +1,4 @@
-# pushbotsswaggerapi
+# Pushbots Swagger Api
 
 Swagger api [location](./config/swagger.json)
 
